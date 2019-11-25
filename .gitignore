@@ -41,6 +41,9 @@
 *.su
 *.idb
 *.pdb
+Debug
+*.vcxproj
+*.vcxproj.*
 
 # Kernel Module Compile Results
 *.mod*
